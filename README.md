@@ -1,8 +1,8 @@
-#AlgorithmStudy 
+AlgorithmStudy 
 =================
-##Here is the code of online judge remedy 
+Here is the code of online judge remedy 
 -----------------------------------
-#Why am i doing? 
+Why am i doing? 
 ================
 1.Code feedback
 2.Reduce some mistake
