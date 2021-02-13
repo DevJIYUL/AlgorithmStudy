@@ -1,5 +1,4 @@
 # AlgorithmStudy
-## What is AlgorithmStudy
 -The code of online judge remedy
 ###Why am i doing?
 1.Code feedback
