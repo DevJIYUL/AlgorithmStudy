@@ -31,8 +31,6 @@ def bfs():
                 graph[nx][ny] = graph[x][y] + 1
 
 bfs()
-
-
 for i in graph:
     for j in i:
         max_ = max(max_, j)
